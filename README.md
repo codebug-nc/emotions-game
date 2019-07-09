@@ -1,4 +1,4 @@
-# Emotions Game
-A game where you guess emotions! 
+# Feeling-Guesser Game
+A game where you guess what feeling is being acted out! 
 
-See it live on the web: [emotions-game.surge.sh](http://emotions-game.surge.sh)
+See it live on the web: [feelings-game.surge.sh](http://feelings-game.surge.sh)
