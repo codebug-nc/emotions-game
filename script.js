@@ -1,7 +1,7 @@
 $(document).ready(function(){
-	var randomEmotions = ["happy", "sad", "disgust", "surprise", "fear", "anger", "guilt"];
+	var randomFeeling = ["happy", "sad", "grossed out", "surprise", "fear", "anger", "cold", "thirsty", "hungry", "awkward", "annoyed", "shy", "peaceful", "energetic", "bored", "winning", "powerful", "exhausted", "nervous"];
 	$("#generator").click(function(){
-		var emotion = randomEmotions[Math.floor(Math.random() * randomEmotions.length)];
-		$("#emotion").text(emotion); 
+		var feeling = randomFeeling[Math.floor(Math.random() * randomFeeling.length)];
+		$("#feeling").text(feeling); 
 	});
 });
